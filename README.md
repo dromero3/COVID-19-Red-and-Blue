@@ -3,6 +3,8 @@
 In this project I analyzed COVID-19 vaccination rates along with state political party affiliations to determine if there is a statistical difference in mean vaccination rates among Democratic and Republican states. While I predicted
 that Democratic states would have statistically higher vaccination rates on average, I found that the observed difference in means was not statistically significant at any legitimate significance level using an A/B permutation test. The results highlight how I often allow media to sway my own judgements when it comes to political ideaology.
 
+The vaccination data used in this project can be downloaded at: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+
 ## Research Question
 Is there a present-day, significant difference in the percentage of citizens vaccinated against COVID-19 among Democratic and Republican states in the U.S.?
 
